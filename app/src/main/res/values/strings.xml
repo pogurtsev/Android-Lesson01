@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson01</string>
+    <string name="hello_world_homework_01">Hello World! HomeWork-01</string>
+    <string name="enter_your_name">Enter Your name:</string>
+    <string name="submit">Submit</string>
+    <string name="switch1">Switch</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
+</resources>
